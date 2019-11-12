@@ -1193,7 +1193,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #376e29;
+  background: #6cd0ff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2691,7 +2691,7 @@ body {
 .waifu-tips {
   opacity: 0;
   width: 200px;
-  height: 100px;
+  height: 120px;
   margin: -60px 20px;
   padding: 5px 10px;
   border: 1px solid rgba(0,0,0,0.6);
