@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://lilei.blog/"/>
-  <updated>2019-11-09T17:51:48.745Z</updated>
+  <updated>2019-11-16T21:54:45.659Z</updated>
   <id>http://lilei.blog/</id>
   
   <author>
@@ -17,36 +17,50 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test</title>
-    <link href="http://lilei.blog/2019/11/10/test/"/>
-    <id>http://lilei.blog/2019/11/10/test/</id>
-    <published>2019-11-09T17:51:48.000Z</published>
-    <updated>2019-11-09T17:51:48.745Z</updated>
+    <title>关于这个blog</title>
+    <link href="http://lilei.blog/2019/11/17/AboutBlog/"/>
+    <id>http://lilei.blog/2019/11/17/AboutBlog/</id>
+    <published>2019-11-16T21:47:45.000Z</published>
+    <updated>2019-11-16T21:54:45.659Z</updated>
+    
+    <content type="html"><![CDATA[<p>blog基于hexo，主题使用next并稍作修改。暂时只做展示用。<br>正在使用gatsbyjs重新搭建blog，搭建完成后看情况同步文章。</p>]]></content>
     
     <summary type="html">
+    
+      
+      
+        &lt;p&gt;blog基于hexo，主题使用next并稍作修改。暂时只做展示用。&lt;br&gt;正在使用gatsbyjs重新搭建blog，搭建完成后看情况同步文章。&lt;/p&gt;
+      
     
     </summary>
     
     
+    
+      <category term="水" scheme="http://lilei.blog/tags/%E6%B0%B4/"/>
     
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://lilei.blog/2019/11/04/hello-world/"/>
-    <id>http://lilei.blog/2019/11/04/hello-world/</id>
-    <published>2019-11-04T05:41:57.332Z</published>
-    <updated>2019-11-09T17:19:47.473Z</updated>
+    <title>前言</title>
+    <link href="http://lilei.blog/2019/11/17/Preamble/"/>
+    <id>http://lilei.blog/2019/11/17/Preamble/</id>
+    <published>2019-11-16T21:34:56.000Z</published>
+    <updated>2019-11-16T21:48:37.547Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><a id="more"></a><!-- build time:Sat Nov 16 2019 00:53:45 GMT+0800 (中国标准时间) --><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<p>欢迎来到 LiLei的博客</p><p>《诗经·秦风·车邻》</p><p>有车邻邻，有马白颠。未见君子，寺人之令。<br>阪有漆，隰有栗。既见君子，并坐鼓瑟。今者不乐，逝者其耋。<br>阪有桑，隰有杨。既见君子，并坐鼓簧。今者不乐，逝者其亡。</p>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+      
+      
+        &lt;p&gt;欢迎来到 LiLei的博客&lt;/p&gt;&lt;p&gt;《诗经·秦风·车邻》&lt;/p&gt;&lt;p&gt;有车邻邻，有马白颠。未见君子，寺人之令。&lt;br&gt;阪有漆，隰有栗。既见君子，并坐鼓瑟。今者不乐，逝者其耋。&lt;br&gt;阪有桑，隰有杨。既见君子，并坐鼓簧。今者不乐，逝者其亡。&lt;/p&gt;
+      
     
     </summary>
     
     
+    
+      <category term="水" scheme="http://lilei.blog/tags/%E6%B0%B4/"/>
     
   </entry>
   
